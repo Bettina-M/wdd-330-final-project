@@ -2,7 +2,7 @@ import {loadHeaderFooter} from "./utils.mjs";
 
 loadHeaderFooter();
 
-//function to fetch data from API
+//function to fetch data from API and show product cateogories//
 
 async function getData(){
     try{
